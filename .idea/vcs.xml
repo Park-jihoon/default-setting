@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../spring-boot-oauth2-jwt-server/spring-boot-2-oauth2-authorization-jwt" vcs="Git" />
   </component>
 </project>
